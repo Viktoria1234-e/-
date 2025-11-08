@@ -1,7 +1,7 @@
 @font-face {
-    font-family: 'SF Pro Text'
-    font-style: normal
-    font-weight: 300
+    font-family: 'SF Pro Text';
+    font-style: normal;
+    font-weight: 300;
     scr:
     local('SF Pro Text')
     url('font/SEProText-Light.woff2'),format('woff2')
@@ -9,3 +9,4 @@
                               ttf             ttf
                               eot             eot
                               пппппппппппппппп
+}
